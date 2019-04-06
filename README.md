@@ -1,6 +1,6 @@
 # Teddy Bear Chair
 
-## Background: A recreation of a 1970s-era bean bag chair sewing pattern
+## A recreation of a 1970s-era bean bag chair sewing pattern
 
 My mom had fairly serviceable 70s homemaker skills.  She could decorate a mean cake and was pretty decent with a sewing machine that I myself now have!
 
