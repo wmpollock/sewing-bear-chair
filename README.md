@@ -6,14 +6,18 @@ My mom had fairly serviceable 70s homemaker skills.  She could decorate a mean c
 
 My own wife's is much more fun and when I learned in the back of my mind many years ago was the idea that I would be able to re-create this pattern from my childhood.  Despite the modern marketplace saving everything discovered since 2006 this pattern turns out to be super-rare and unfindable.
 
-My mom had of course downsized by the time I took up sewing and had downsized the pattern likely into oblivion though things shake out from time to time.  In 2017 I discovered [a photo of the pattern envelope on pinterest](https://www.pinterest.com/pin/226868899952097800).
 
-![Pinterest Image (resized)](media/pinterest-2018.jpg "Teddy Bear Chair - Pattern #721")  It *did* exist!  One!  In all the years and obscure searches.  Despite now having several great inroads such as the manufacturer and the name it would not be until early 2019 that I would discover that I had missed by a month on either side [a listing on etsy](https://www.etsy.com/listing/159444967/teddy-bear-chair-mail-order-pattern-721
+<img src="media/pinterest-2018.jpg" width="50%" align="left" style="padding-right: 1.25em"/>My mom had of course downsized by the time I took up sewing and had downsized the pattern likely into oblivion though things shake out from time to time.  In 2017 I discovered [a photo of the pattern envelope on pinterest](https://www.pinterest.com/pin/226868899952097800).
+
+
+  It *did* exist!  One!  In all the years and obscure searches.  Despite now having several great inroads such as the manufacturer and the name it would not be until early 2019 that I would discover that I had missed by a month on either side [a listing on etsy](https://www.etsy.com/listing/159444967/teddy-bear-chair-mail-order-pattern-721
 ) -- already closed!
 
 I wasn't entirely heartbroken however as the listing had serviceable pattern images that could be kludged over in Photoshop before trying to make some sense
 of things in Illustrator. :D
-![Pattern recreation](media/pattern-recreation.jpg)
+
+<img src="media/pattern-recreation.jpg" width="50%" align="right" style="padding-left: 1.25em"/>
+
 I super-love Open Source software but my legacy copy of CS6 continues to be a rock-solid performer.
 
 ## To-dos
