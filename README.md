@@ -21,12 +21,10 @@ of things in Illustrator. :D
 I super-love Open Source software but my legacy copy of CS6 continues to be a rock-solid performer.
 
 ## To-dos
-* My pagination was quick and with the intention to Get It Out.  Mistakes Were Made WRT the auto-pagination making a really cute paste-up recreation of the OG layout but an absolutely inconsiderate and awful paste-up-and-use-the-tiny-corner. 
 * I thumb-measured the sheet size off a standard envelope size and the number of folds.  I have since found out that full-page printers exist who print lovely patterns for not that expensive.  The main layout should be refactored for this.
-* Gosh but PDFs of the above for common consumption would be nice.
 * 1970s layout is cute but there are a number of things I would arrange a little differently by way of instruction and illustration.  I'm not sure what sort of dry-transfer-and-tape the original was created in but it was wonderful
 to marvel at it and be so much happier with my applied styles and nudge tools.
-
+* I think the oval-like nature of the original draught may be incorrect :/
 # Sources
 
 Published as "Teddy Bear Chair/Pattern 721"
